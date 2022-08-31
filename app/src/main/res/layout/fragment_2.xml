@@ -38,5 +38,5 @@
         android:layout_height="wrap_content"
         android:layout_weight="2"
         android:src="@drawable/peng" />
-    //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
+<!--    //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-->
 </LinearLayout>
